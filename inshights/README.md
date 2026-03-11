@@ -37,8 +37,12 @@ This project analyzes an e-commerce dataset to identify patterns in sales perfor
 ## Project Structure
 
 data/ – raw dataset
+
 sql/ – SQL queries for analysis
+
 python/ – data analysis scripts
+
 dashboard/ – Power BI dashboard
+
 insights/ – final business insights
 
