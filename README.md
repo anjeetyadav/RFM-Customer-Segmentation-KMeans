@@ -158,6 +158,12 @@ An interactive dashboard was created using Microsoft Power BI to visualize custo
 
 ---
 
+## 🔍 Key Business Insights
+- Top 20% of customers contribute to majority of revenue  
+- High Recency customers require re-engagement strategies  
+- Loyal customers show consistent purchase behavior
+  
+---
 ## 🏁 Conclusion
 
 This project demonstrates how RFM segmentation combined with clustering techniques can help businesses:
