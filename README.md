@@ -75,11 +75,10 @@ RFM is a powerful customer segmentation technique:
 
 ### 🔹 Elbow Method
 
-![Elbow Method](elbow.png)
-
+![Elbow Method](./dashboard/elbow.png)
 ### 🔹 Customer Segmentation (Clusters)
 
-![Cluster Plot](clusters.png)
+![Cluster Plot](./dashboard/clusters.png)
 
 ---
 
@@ -93,7 +92,7 @@ An interactive dashboard was created using Microsoft Power BI to visualize custo
 
 ![RFM Analysis](./dashboard/RFM_Analysis.png)
 
-![Advanced Insights](./dashboard/Advanced_insights.png)
+![Advanced Insights](./dashboard/Advanced_inshights.png)
 
 ### 📌 Dashboard Insights:
 
