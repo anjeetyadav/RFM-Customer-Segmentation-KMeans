@@ -78,10 +78,10 @@ RFM is a powerful customer segmentation technique:
 
 ### 🔹 Elbow Method
 
-![Elbow Method](./elbow.png)
+![Elbow Method](./images/elbow.png)
 ### 🔹 Customer Segmentation (Clusters)
 
-![Cluster Plot](./clusters.png)
+![Cluster Plot](./images/clusters.png)
 
 ---
 
