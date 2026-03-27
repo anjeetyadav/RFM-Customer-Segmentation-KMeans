@@ -1,3 +1,5 @@
+End-to-end customer segmentation project using RFM analysis and K-Means clustering to identify high-value customers and drive business decisions.
+
 # 🚀 RFM Customer Segmentation using K-Means
 
 ## 📌 Problem Statement
